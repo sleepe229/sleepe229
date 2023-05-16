@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sleepe229
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, html+css
+- 🌱 I’m currently learning java, python, html+css
 - 💞️ I’m looking to collaborate with someone
 - 📫 discord to contact me: sleepe#6890
 
