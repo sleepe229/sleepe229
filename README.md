@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @sleepe229
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, python, html+css
-- 💞️ I’m looking to collaborate with someone
-- 📫 discord to contact me: sleepe#6890
+# Hi there, I'm Stephen 👋
 
-<!---
-sleepe229/sleepe229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a Java Developer and student. I love solving complex problems and building scalable solutions. Passionate about continuous learning and sharing knowledge with the community.
+
+- 🌍 Based in [Your Location]
+- 💻 Currently working as a freelancer
+- 📚 Always learning new technologies and best practices
+
+## 🔧 Technologies & Tools
+- **Languages**: Java, SQL
+- **Frameworks**: Spring Boot, Hibernate, JUnit, Spring Security
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Maven
+
+## 📈 GitHub Stats
+![sleepe229's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepe229&show_icons=true&theme=radical)
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepe229&layout=compact&theme=radical)
+
+
+## 📫 Contact Me
+- [Email](mailto:tpynngg@gmail.com)
+
+
+⭐️ From [sleepe229](https://github.com/sleepe229)
