@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Java Developer and student. I love solving complex problems and building scalable solutions. Passionate about continuous learning and sharing knowledge with the community.
 
-- 🌍 Based in [Your Location]
+- 🌍 Based in Moscow, Russia
 - 💻 Currently working as a freelancer
 - 📚 Always learning new technologies and best practices
 
