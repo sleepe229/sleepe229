@@ -24,6 +24,10 @@
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
         <br>Redis
     </td>
@@ -31,12 +35,12 @@
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
         <br>Kafka
     </td>
+</tr>
+<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
         <br>RabbitMQ
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
@@ -46,8 +50,8 @@
         <br>Kubernetes
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+        <br>Maven
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
@@ -57,15 +61,11 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-    </td>
 </tr>
 </table>
 
 <br/>
 
-!
+![](https://github-readme-stats.vercel.app/api?username=sleepe229&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
